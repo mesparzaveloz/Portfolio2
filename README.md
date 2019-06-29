@@ -1,2 +1,4 @@
-# Portfolio2
-Updated portfolio
+# Marcelino Esparza Portfolio
+Updated Portfolio for Coding Bootcamp - Homework 17
+
+https://mesparzaveloz.github.io/MEVPortfolio2/
